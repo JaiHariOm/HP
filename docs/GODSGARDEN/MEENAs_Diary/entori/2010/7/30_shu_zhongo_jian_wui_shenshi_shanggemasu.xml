@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="62B6CA23-6D1F-4B1C-9F76-C0F22F41AB6F">
+  <lastEdited clientType="local-build-20180730" date="2018-07-30 08:47:33 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&#x6691;&#x4E2D;&#x304A;&#x898B;&#x821E;&#x3044;&#x7533;&#x3057;&#x4E0A;&#x3052;&#x307E;&#x3059;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Aaaaaaaa&#x3000;&#x6691;&#x3044;&#x4E2D;&#x7686;&#x69D8;&#x3044;&#x304B;&#x304C;&#x304A;&#x904E;&#x3054;&#x3057;&#x3067;&#x3059;&#x304B;&#xD;&#xD;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#xFF0B;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;&#x3000;kanakanakanakanakana&#xD;&#xD;&#x3000;&#x3000;&#x3000;&#x3053;&#x3061;&#x3089;&#x306F;&#x6BCE;&#x65E5; &#x30AB;&#x30CA;&#x30AB;&#x30CA;&#x3068;&#x30DF;&#x30F3;&#x30DF;&#x30F3;&#x8749;&#x306E;&#x5927;&#x5408;&#x5531;&#x3067;&#x3059;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>2010/07/30</richText>
+  </textBox>
+</content>

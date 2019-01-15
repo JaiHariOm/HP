@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="62B6CA23-6D1F-4B1C-9F76-C0F22F41AB6F">
+  <lastEdited clientType="local-build-20180730" date="2018-07-30 08:47:34 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&#x6771;&#x65E5;&#x672C;&#x5927;&#x9707;&#x707D;&#x304B;&#x3089;&#xFF11;&#x5E74;&#x305F;&#x3063;&#x3066;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#xFF13;.&#xFF11;&#xFF11; &#x79C1;&#x306F;&#x3000;&#x30A4;&#x30F3;&#x30C9;&#x3067;&#x7791;&#x60F3;&#x306E;&#x65E5;&#x3005;&#x3060;&#x3063;&#x305F;&#xD;&#xD;&#xD;&#x611B;&#x3059;&#x308B;&#x81EA;&#x5206;&#x306E;&#x56FD;&#x304C;&#x5927;&#x5909;&#x306A;&#x3053;&#x3068;&#x306B;&#x306A;&#x3063;&#x3066;&#x3044;&#x308B;&#x3068;&#x304D;&#x306B;&#xD;&#xD;&#x697D;&#x5712;&#x306E;&#x3088;&#x3046;&#x306B;&#x7A4F;&#x3084;&#x304B;&#x306A;&#x3068;&#x3053;&#x308D;&#x306B;&#x3044;&#x308B;&#x81EA;&#x5206;&#x3092;&#x4E0D;&#x601D;&#x8B70;&#x306B;&#x601D;&#x3044;&#x306A;&#x304C;&#x3089;&#xD;&#xD;&#x305F;&#x3060;&#x3000;&#x7948;&#x308B;&#x3053;&#x3068;&#x3057;&#x304B;&#x3067;&#x304D;&#x306A;&#x304B;&#x3063;&#x305F;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>2012 . 3 .1 1 .  Snuday</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_dong_ri_ben_da_zhen_zaikaraniantatte_files/shapeimage_1.png" left="0px" top="0px" width="518px" height="389px"/>
+</content>

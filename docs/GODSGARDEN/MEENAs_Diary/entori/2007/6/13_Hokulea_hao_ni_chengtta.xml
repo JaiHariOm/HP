@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="62B6CA23-6D1F-4B1C-9F76-C0F22F41AB6F">
+  <lastEdited clientType="local-build-20180730" date="2018-07-30 08:47:32 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hokule'a&#x53F7; &#x306B;&#x4E57;&#x3063;&#x305F;&#xFF01;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#x661F;&#x3068;&#x98A8;&#x3092;&#x983C;&#x308A;&#x306B; &#xA0;&#x30CF;&#x30EF;&#x30A4;&#x304B;&#x3089;&#x65E5;&#x672C;&#x306B;&#x3084;&#x3063;&#x3066;&#x304D;&#x53E4;&#x4EE3;&#x306E;&#x30AB;&#x30CC;&#x30FC;Hokule&#x2019;a&#x53F7;&#x304C; &#xA0;&#xFF19;&#x65E5; &#x6A2A;&#x6D5C;&#x306B;&#x5230;&#x7740;&#x3057;&#x305F;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>2007&#x5E74; 6&#x6708; 13  wednesday</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Hokulea_hao_ni_chengtta_files/shapeimage_1.png" left="0px" top="0px" width="410px" height="308px"/>
+</content>

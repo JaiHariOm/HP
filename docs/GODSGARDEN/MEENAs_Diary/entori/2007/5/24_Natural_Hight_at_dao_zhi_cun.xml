@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="62B6CA23-6D1F-4B1C-9F76-C0F22F41AB6F">
+  <lastEdited clientType="local-build-20180730" date="2018-07-30 08:47:32 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Natural Hight at &#x9053;&#x5FD7;&#x6751;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>KOH-TAO&#x306E;Live&#x304C;&#x3042;&#x308B;&#x306E;&#x3067; &#xA0;&#x4E45;&#x3057;&#x3076;&#x308A;&#x306B;&#x9053;&#x5FD7;&#x6751;&#x306B;&#x904A;&#x3073;&#x306B;&#x3044;&#x3063;&#x305F;&#xD;10&#x5E74;&#x8FD1;&#x304F;&#x524D;&#x306F;&#xFF08;waaaa &#x3082;&#x3046;&#x305D;&#x3093;&#x306A;&#x306B;&#x6642;&#x304C;&#x904E;&#x304E;&#x3066;&#x308B;&#x3093;&#x3060;&#xFF09;&#x3088;&#x304F;&#x904A;&#x3073;&#x306B;&#x3044;&#x3063;&#x3066;&#x305F;&#x306A;&#x3000;&#x3000;&#x76F8;&#x5909;&#x308F;&#x3089;&#x305A;&#x3044;&#x3044;&#x30AD;&#x30E3;&#x30F3;&#x30D7;&#x5834;&#x3060;&#x3063;&#x305F;&#xD;&#xA0;&#xD;&#x3000;&#x3000;&#x304A;&#x5929;&#x6C17;&#x3082;&#x3068;&#x3066;&#x3082;&#x826F;&#x304F;&#x3066;&#x6C17;&#x6301;&#x3061;&#x3044;&#x3044;&#xD;&#x3000;Live&#x3082;&#x7686;&#x3044;&#x3044;&#x611F;&#x3058;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>2007/05/24</richText>
+  </textBox>
+</content>
