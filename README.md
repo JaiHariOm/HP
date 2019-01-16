@@ -1,5 +1,5 @@
 # HP info
 
-It is the site of GODSGARDEN L'mana.
+It is the site of **GODSGARDEN-L'mana**.
 
-ここは、 GODSGARDEN L’mana  のサイトです。
+ここは、 **GODSGARDEN-L'mana**  のサイトです。
