@@ -510,13 +510,15 @@ li.full-width {
   right: 0;
   bottom: 0;
   opacity: 0.6;
+  z-index: 999;
 }
 #page_top a{
-  position: fixed;
+  position: relative;
   display: block;
   width: 90px;
   height: 90px;
   text-decoration: none;
+  z-index: 999;
 }
 #page_top a::before{
   font-family: FontAwesome;
@@ -532,6 +534,7 @@ li.full-width {
   left: 0;
   margin: auto;
   text-align: center;
+  z-index: 999;
 }
 #page_top a::after{
   content: 'PAGE TOP';
@@ -545,4 +548,5 @@ li.full-width {
   margin: auto;
   text-align: center;
   color: #3f98ef;
+  z-index: 999;
 }
