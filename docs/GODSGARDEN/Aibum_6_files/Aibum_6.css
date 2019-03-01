@@ -165,7 +165,7 @@ li.full-width {
   opacity: 0.6;
 }
 #page_top a{
-  position: relative;
+  position: fixed;
   display: block;
   width: 90px;
   height: 90px;
