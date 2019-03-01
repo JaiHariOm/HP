@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="62B6CA23-6D1F-4B1C-9F76-C0F22F41AB6F">
-  <lastEdited clientType="local-build-20190228" date="2019-02-28 11:06:04 +0000"/>
+  <lastEdited clientType="local-build-20190302" date="2019-03-01 16:07:33 +0000"/>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
     <richText>&#x6069;&#x5E2B;&#x3092;&#x8A2A;&#x306D;&#x3066;</richText>
   </textBox>
