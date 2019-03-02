@@ -32,6 +32,28 @@
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
+    line-height: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 0.69;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: rgb(172, 153, 44);
+    font-family: 'Papyrus';
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
     line-height: 21px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -69,7 +91,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.paragraph_style_2 {
+.paragraph_style_3 {
     color: rgb(172, 153, 44);
     font-family: 'Papyrus';
     font-size: 30px;
@@ -91,32 +113,10 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_3 {
-    color: rgb(172, 153, 44);
-    font-family: 'Papyrus';
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 25px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 0.69;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: center;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_External_410_40 {
+.style_External_87_31 {
     position: relative;
 }
-.style_External_87_31 {
+.style_External_410_179 {
     position: relative;
 }
 .Body {
@@ -188,7 +188,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_410_40 {
+.Normal_External_410_179 {
     position: relative;
 }
 .Normal_External_410_39 {
@@ -224,10 +224,10 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_302_54 {
+.graphic_textbox_layout_style_default_External_411_4317 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_411_4514 {
+.graphic_textbox_layout_style_default_External_302_54 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_100 {
