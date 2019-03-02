@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <content collectionGUID="62B6CA23-6D1F-4B1C-9F76-C0F22F41AB6F">
-  <lastEdited clientType="local-build-20190302" date="2019-03-02 05:06:30 +0000"/>
+  <lastEdited clientType="local-build-20190302" date="2019-03-02 07:15:40 +0000"/>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
-    <richText>&#x306D;&#x3076;&#x305F; &#x306E; &#x201C; &#x3089;&#x3063;&#x305B;&#x3089;&#x30FC; &#x201D; &#x306E; &#x610F;&#x5473;&#x304C;&#x308F;&#x304B;&#x3063;&#x305F; !</richText>
+    <richText>&#x306D;&#x3076;&#x305F; &#x306E; &#x201C; &#x3089;&#x3063;&#x305B;&#x3089;&#x30FC; &#x201D; &#x306E; &#x610F;&#x5473;&#x304C;&#x308F;&#x304B;&#x3063;&#x305F; !   (&#xFF1F;)</richText>
   </textBox>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
     <richText>&#xFF12;&#x5E74;&#x524D;&#x3001;ETHIOPIA&#x3092;&#x65C5;&#x3057;&#x3066;&#x3044;&#x308B;&#x6642;&#x306B;&#x3001;&#xD;&#xD;&#x8857;&#x306B;&#x6D41;&#x308C;&#x3066;&#x304F;&#x308B; &#x30DD;&#x30C3;&#x30D7;&#x30DF;&#x30E5;&#x30FC;&#x30B8;&#x30C3;&#x30AF;&#x3092;&#x8074;&#x3044;&#x3066;&#x3044;&#x305F;&#x3089;&#x3001;&#xD;&#xD;&#x201C; &#x3089;&#x3063;&#x305B;&#x3089;&#x30FC; &#x3089;&#x3063;&#x305B;&#x3089;&#x30FC; &#x201D; &#x3068;&#x6B4C;&#x3063;&#x3066;&#x3044;&#x308B;&#x306E;&#x304C;&#x3042;&#x3063;&#x305F; !&#xD;</richText>
@@ -10,5 +10,5 @@
   <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
     <richText>2018/07/30</richText>
   </textBox>
-  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_nebuta_no_rassera_no_yi_weigawakatta_%21_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="300px"/>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_nebuta_no_rassera_no_yi_weigawakatta_%21_files/shapeimage_1.png" left="0px" top="0px" width="388px" height="300px"/>
 </content>
