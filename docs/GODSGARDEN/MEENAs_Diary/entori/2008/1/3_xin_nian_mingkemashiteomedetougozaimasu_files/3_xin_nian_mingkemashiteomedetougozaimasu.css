@@ -134,6 +134,10 @@
 .style_External_410_117 {
     position: relative;
 }
+.style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_External_111_29 {
     position: relative;
 }
@@ -250,6 +254,10 @@
     opacity: 1.00;
 }
 .graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_image_style_default_10_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }

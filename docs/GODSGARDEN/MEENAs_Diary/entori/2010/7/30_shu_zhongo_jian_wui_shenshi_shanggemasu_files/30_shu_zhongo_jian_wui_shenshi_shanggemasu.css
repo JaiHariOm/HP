@@ -8,6 +8,10 @@
 }
 .style_SkipStrokeSkipFillSkipOpacity_4 {
 }
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStrokeSkipFillSkipOpacity_2 {
 }
 .style_SkipStrokeSkipFillSkipOpacity_3 {
@@ -92,11 +96,15 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_100_100 {
-    position: relative;
+.graphic_image_style_default_9_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_100_100 {
+    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
