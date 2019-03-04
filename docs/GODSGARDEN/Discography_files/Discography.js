@@ -1,7 +1,7 @@
-// Created by iWeb 3.0.4 local-build-20190228
+// Created by iWeb 3.0.4 local-build-20190304
 
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({reflection_1:new IWReflection({opacity:0.37,offset:1.00}),reflection_0:new IWReflection({opacity:0.69,offset:1.00}),stroke_0:new IWEmptyStroke(),shadow_1:new IWShadow({blurRadius:2,offset:new IWPoint(0.1047,2.9982),color:'#a3ae7e',opacity:0.710000}),shadow_0:new IWShadow({blurRadius:4,offset:new IWPoint(0.1396,3.9976),color:'#bb9389',opacity:0.890000})});registry.applyEffects();}
+{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWEmptyStroke(),reflection_0:new IWReflection({opacity:0.69,offset:1.00}),shadow_1:new IWShadow({blurRadius:2,offset:new IWPoint(0.1047,2.9982),color:'#a3ae7e',opacity:0.710000}),shadow_0:new IWShadow({blurRadius:4,offset:new IWPoint(0.1396,3.9976),color:'#bb9389',opacity:0.890000}),reflection_1:new IWReflection({opacity:0.37,offset:1.00})});registry.applyEffects();}
 function hostedOnDM()
 {return false;}
 function onPageLoad()
