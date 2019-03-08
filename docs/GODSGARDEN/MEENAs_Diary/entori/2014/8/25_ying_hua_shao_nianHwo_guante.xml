@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="62B6CA23-6D1F-4B1C-9F76-C0F22F41AB6F">
-  <lastEdited clientType="local-build-20190303" date="2019-03-03 02:56:05 +0000"/>
+  <lastEdited clientType="local-build-20190308" date="2019-03-08 12:47:40 +0000"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
     <richText>&#x30CF;&#x30EA;&#x30B7;&#x30E5;&#x306B;&#x3000;&#x201C;&#x3053;&#x306E;&#x6620;&#x753B;&#x3092;&#x89B3;&#x305F;&#x3089; &#x30DF;&#x30FC;&#x30CA;&#x306E;&#x304A;&#x7236;&#x3055;&#x3093;&#x3092;&#x611F;&#x3058;&#x305F;&#x201D;  &#x3068; &#x8A00;&#x308F;&#x308C;&#x3066; &#xD;&#x4E45;&#x3057;&#x3076;&#x308A;&#x306B;&#x6620;&#x753B;&#x3092;&#x89B3;&#x305F;&#xD;&#xD;&#x821E;&#x53F0;&#x306F; &#x6226;&#x4E89;&#x524D; &#x4E2D; &#x5F8C;&#x306E;&#x795E;&#x6238;&#xD;&#x7236;&#x3068;&#x540C;&#x3058;&#x3088;&#x3046;&#x306A;&#x4FA1;&#x5024;&#x89B3; &#x30E2;&#x30CE;&#x306E;&#x898B;&#x65B9;&#x3092;&#x3059;&#x308B;  H&#x306E;&#x7236;&#x306B; &#x99B4;&#x67D3;&#x307F;&#x3092;&#x611F;&#x3058;&#x306A;&#x304C;&#x3089;&#xD;&#x7236;&#x306E;&#x82E5;&#x304D;&#x6642;&#x4EE3;&#x306E; &#x795E;&#x6238;&#x3092;&#x611F;&#x3058;&#x3066;&#x3044;&#x305F;</richText>
   </textBox>

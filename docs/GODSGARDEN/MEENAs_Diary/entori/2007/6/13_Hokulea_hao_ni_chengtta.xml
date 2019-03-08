@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="62B6CA23-6D1F-4B1C-9F76-C0F22F41AB6F">
-  <lastEdited clientType="local-build-20190304" date="2019-03-04 06:15:09 +0000"/>
+  <lastEdited clientType="local-build-20190308" date="2019-03-08 12:47:39 +0000"/>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
     <richText>Hokule'a&#x53F7; &#x306B;&#x4E57;&#x3063;&#x305F;&#xFF01;</richText>
   </textBox>
