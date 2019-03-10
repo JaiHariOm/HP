@@ -1,0 +1,122 @@
+.bd {
+    min-height: 100%;
+    min-width: 100%;
+}
+
+.sound {
+    background: #4CA1AF;
+    /* fallback for old browsers */
+    background: linear-gradient(0deg, rgba(0, 255, 255, 0.1), rgba(153, 255, 51, 0)) no-repeat border-box, linear-gradient(0deg, rgba(0, 255, 255, 0.1), rgba(0, 0, 255, 0.35)) no-repeat border-box, #acd2b3;
+    font-family: "Lato";
+}
+
+/*h1,
+h2 */
+.f1{
+    font-family: "Papyrus", "Lato";
+    mix-blend-mode: multiply;
+    text-transform: uppercase;
+    font-size: 45px;
+    margin-top: 15px;
+    text-align:center;
+}
+
+/*h3, h4 */
+.f3{
+    font-family: "Papyrus", "Lato";
+    text-transform: uppercase;
+    font-size: 18px;
+    
+}
+
+.sc-player {
+    margin-bottom: 150px;
+    position: relative;
+}
+.sc-player a {
+    color: #aa1199;
+    font-size: 15px;
+    
+}
+.sc-player .sc-artwork-list,
+.sc-player .sc-info-toggle,
+.sc-player .sc-trackslist,
+.sc-player .sc-time-indicators {
+    display: none;
+}
+.sc-player .sc-waveform-container {
+    height: 12px;
+}
+.sc-player .sc-time-span {
+    position: relative;
+    height: 12px;
+    background-color: #000088;
+}
+.sc-player .sc-time-span .sc-played {
+    position: absolute;
+    width: 0%;
+    top: 0;
+    height: 12px;
+    background-color: #4CA1AF;
+    display: block;
+    transition: 0.25s;
+}
+.sc-player .sc-time-span img {
+    width: 100%;
+    height: 12px;
+    visibility: hidden;
+    position: relative;
+}
+.sc-player .sc-time-span .sc-buffer {
+    height: 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 0;
+    background-color: #0000dd;
+    transition: 0.25s;
+}
+.sc-player .sc-info {
+    mix-blend-mode: multiply;
+    position: absolute;
+    margin-top: 30%;
+    top: 34px;
+}
+.sc-player .sc-info .f3 {
+    text-transform: uppercase;
+}
+.sc-player .sc-info .sc-info-close {
+    display: none;
+}
+.sc-player .sc-info p {
+    display: none;
+}
+.sc-player .sc-controls .sc-play,
+.sc-player .sc-controls .sc-pause {
+    color: transparent;
+    width: 25%;
+    padding-bottom: 25%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+}
+.sc-player .sc-controls .sc-play {
+    background-image: url("../../assets/images/play.png");
+}
+.sc-player .sc-controls .sc-pause {
+    background-image: url("../../assets/images/pause.png");
+    display: none;
+}
+.sc-player.playing .sc-play {
+    display: none;
+}
+.sc-player.playing .sc-pause {
+    display: block !important;
+}
+.sc-player.playing .sc-played {
+    min-width: 1px;
+}
+
+/*http://92.243.12.140/orchestrepelleas.com/v1/dyn_img/cms/d7d1bc29f0f8a74872295b219f4cf10d.svg*/
+
+/*http://92.243.12.140/orchestrepelleas.com/v1/dyn_img/cms/98fddf3d95fa97e68b05c375c6d2e7ee.svg*/
