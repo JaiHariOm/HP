@@ -13,7 +13,7 @@ if(!window.HTMLPictureElement){r();}
 var wl = new woolite();
 wl.init();
 wl.addAnimation($('.js321')[0], "2.00s", "0.00s", 1, 100);
-wl.addAnimation($('.js322')[0], "2.30s", "0.00s", 1, 325);
+wl.addAnimation($('.js322')[0], "2.30s", "0.00s", 1, 100);
 wl.addAnimation($('.js323')[0], "3.00s", "0.00s", 1, 100);
 wl.addAnimation($('.js324')[0], "4.00s", "0.00s", 1, 100);
 wl.start();
