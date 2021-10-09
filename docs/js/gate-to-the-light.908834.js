@@ -5,20 +5,21 @@ ldsrcset=function(t){var e,r=document.querySelectorAll(t);for(e=0;e<r.length;e++
 
 $(function(){
 r=function(){dpi=window.devicePixelRatio;var a='data-src';var e=document.querySelector('.js563');if(e.hasAttribute('src')){a='src';}e.setAttribute(a,(dpi>1)?'images/img_8430-1314.jpeg':'images/img_8430-657.jpeg');
-var a='data-src';var e=document.querySelector('.js564');if(e.hasAttribute('src')){a='src';}e.setAttribute(a,(dpi>1)?'images/hua-xiang-3-1058.jpg':'images/hua-xiang-3-529.jpg');
+var a='data-src';var e=document.querySelector('.js565');if(e.hasAttribute('src')){a='src';}e.setAttribute(a,(dpi>1)?'images/hua-xiang-3-1058.jpg':'images/hua-xiang-3-529.jpg');
 
-var a='data-src';var e=document.querySelector('.js567');if(e.hasAttribute('src')){a='src';}e.setAttribute(a,(dpi>1)?'images/godsgarden-logo6-400-1.png':'images/godsgarden-logo6-200-1.png');
+var a='data-src';var e=document.querySelector('.js568');if(e.hasAttribute('src')){a='src';}e.setAttribute(a,(dpi>1)?'images/godsgarden-logo6-400-1.png':'images/godsgarden-logo6-200-1.png');
 
 var e=document.querySelector('.js557');e.setAttribute('src',(dpi>1)?'images/godsgarden-logo6-978.png':'images/godsgarden-logo6-489.png');
 var e=document.querySelector('.js560');e.setAttribute('src',(dpi>1)?'images/hua-xiang-86-1070.jpg':'images/hua-xiang-86-535.jpg');};
 if(!window.HTMLPictureElement){r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
-ldsrc('.js562');ldsrcset('.js568 source');ldsrc('.js563');ldsrcset('.js569 source');ldsrc('.js564');ldsrcset('.js570 source');ldsrc('.js566');ldsrcset('.js571 source');ldsrc('.js567');ldsrcset('.js572 source');wl=new woolite();
+ldsrc('.js562');ldsrcset('.js569 source');ldsrc('.js563');ldsrcset('.js570 source');ldsrc('.js565');ldsrcset('.js571 source');ldsrc('.js567');ldsrcset('.js572 source');ldsrc('.js568');ldsrcset('.js573 source');wl=new woolite();
 wl.init();
 wl.addAnimation($('.js558')[0], "2.00s", "0.00s", 1, 100);
 wl.addAnimation($('.js559')[0], "3.10s", "0.00s", 1, 1);
 wl.addAnimation($('.js561')[0], "3.00s", "0.00s", 1, 100);
-wl.addAnimation($('.js565')[0], "3.10s", "0.00s", 1, 0);
+wl.addAnimation($('.js564')[0], "1.00s", "0.00s", 1, 100);
+wl.addAnimation($('.js566')[0], "3.10s", "0.00s", 1, 0);
 wl.start();
 
 });
