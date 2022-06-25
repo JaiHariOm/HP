@@ -7,7 +7,7 @@ $(function(){
 r=function(){dpi=window.devicePixelRatio;var a='data-src';var e=document.querySelector('.un233');if(e.hasAttribute('src')){a='src';}e.setAttribute(a,(dpi>1)?'images/img_9275_3-1014.jpg':'images/img_9275_3-507.jpg');
 
 var a='data-src';var e=document.querySelector('.un235');if(e.hasAttribute('src')){a='src';}e.setAttribute(a,(dpi>1)?'images/godsgarden-logo6-400-1.png':'images/godsgarden-logo6-200-1.png');
-var a='data-src';var e=document.querySelector('.un238');if(e.hasAttribute('src')){a='src';}e.setAttribute(a,(dpi>1)?'images/dscn2582-1920-1.jpg':'images/dscn2582-960-1.jpg');
+
 var a='data-src';var e=document.querySelector('.un239');if(e.hasAttribute('src')){a='src';}e.setAttribute(a,(dpi>1)?'images/img_8430-1314-1.jpeg':'images/img_8430-657-1.jpeg');
 var e=document.querySelector('.un229');e.setAttribute('src',(dpi>1)?'images/godsgarden-logo6-686.png':'images/godsgarden-logo6-343.png');
 var e=document.querySelector('.un232');e.setAttribute('src',(dpi>1)?'images/hua-xiang-43-960.jpg':'images/hua-xiang-43-480.jpg');
@@ -16,8 +16,8 @@ if(!window.HTMLPictureElement){r();}
 !function(){var e=document.querySelectorAll('a[href^="#"]');[].forEach.call(e,function(e){e.addEventListener("click",function(t){var o=0;if(e.hash.length>1){var l=parseFloat(getComputedStyle(document.body).getPropertyValue("zoom"));l||(l=1);var n=document.querySelectorAll('[name="'+e.hash.slice(1)+'"]')[0];o=(n.getBoundingClientRect().top+pageYOffset)*l}if("scrollBehavior"in document.documentElement.style)scroll({top:o,left:0,behavior:"smooth"});else if("requestAnimationFrame"in window){var r=pageYOffset,a=null;requestAnimationFrame(function e(t){a||(a=t);var l=t-a;scrollTo(0,r<o?(o-r)*l/400+r:r-(r-o)*l/400),l<400?requestAnimationFrame(e):scrollTo(0,o)})}else scrollTo(0,o);t.preventDefault()},!1)})}();
 wl=new woolite();
 wl.init();
-wl.addAnimation($('.un230'), "2.10s", "0.00s", 1, 100);
-wl.addAnimation($('.un231'), "3.10s", "0.00s", 1, 1);
+wl.addAnimation($('.un230'), "5.30s", "0.00s", 1, 100);
+wl.addAnimation($('.un231'), "5.00s", "0.00s", 1, 1);
 wl.addAnimation($('.un237'), "2.00s", "0.00s", 1, 100);
 wl.addAnimation($('.un240'), "1.00s", "0.00s", 1, 100);
 wl.start();
